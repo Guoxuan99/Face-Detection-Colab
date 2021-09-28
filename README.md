@@ -7,4 +7,5 @@ Aim of the Project: This project is to improve the **[Face Mask Detection System
 Google Colab as the platform to detect whether you are wearing a mask or not.The problem on the previous project is it will display picture by picture even using real time webcam.
 Now, with the overlapping technique proposed in this project, we can overlap the label on the real time video itself.
 
+
 ![face detect](https://user-images.githubusercontent.com/65883921/135113807-b208d94c-cdde-4680-a994-71e65a941995.png)
