@@ -1,5 +1,5 @@
 # Face-Detection-Colab
-Extra Project - Clone of existed project online - Face Detection Colab - Using OpenCV's Haar Cascade to do face detection on Webcam image and video on Google Colab..
+Extra Project - Face Detection Colab - Using OpenCV's Haar Cascade to do face detection on Webcam image and video on Google Colab..
 
 Original Project: https://www.youtube.com/watch?v=YjWh7QvVH60&t=636s
 
